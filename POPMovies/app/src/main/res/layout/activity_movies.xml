@@ -1,0 +1,5 @@
+<fragment xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:id="@+id/fragment_gridview"
+    android:name="com.example.amrmasoud.popmovies.Controller.Movies_Grid_Fragment"
+    tools:layout="@layout/fragment_movies" android:layout_width="match_parent"
+    android:layout_height="match_parent" />
